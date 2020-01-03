@@ -1,6 +1,6 @@
 {
   "name": "slack-app",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Basic Slack Application",
   "author": "jc123 <jim@jimcuff.com>",
   "main": "functions/__main__.js",
